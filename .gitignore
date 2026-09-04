@@ -1,0 +1,9 @@
+# 이 저장소는 공개다. 이미지 외에는 아무것도 들어오지 않게 막는다.
+*
+!*/
+!*.png
+!*.jpg
+!*.jpeg
+!*.webp
+!README.md
+!.gitignore
